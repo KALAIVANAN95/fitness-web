@@ -81,10 +81,11 @@ const Hero = () => {
 
         {/* hero images */}
 
-        <img src={hero_image} alt="hero-image" className="hero-image" />
+        <img src={hero_image} alt="Fitness training"
+ className="hero-image" />
         <img
           src={hero_image_back}
-          alt="hero-black-image"
+           alt="fitness-background"
           className="hero-image-back"
         />
 
